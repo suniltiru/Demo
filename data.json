@@ -1,0 +1,175 @@
+{
+   "status":"success",
+   "data":{
+      "active_maps":[
+         
+      ],
+      "inactive_maps":[
+         {
+            "map_id":34,
+            "map_name":"Klantreis: ori\u00ebnteren op een zorgverzekering",
+            "map_image":null,
+            "media_type":null,
+            "link_type":null,
+            "video_url":null,
+            "created_date":"25-06-2021",
+            "customer":"",
+            "map_status":1,
+            "owner_id":357,
+            "owner_icon":null,
+            "owner_fname":"ramp",
+            "owner_lname":"okhjhj",
+            "lifecycle_id":1,
+            "lifecycle_name":"lifecycle",
+            "cr_id":2,
+            "phase_id":1,
+            "stage_id":1
+         },
+         {
+            "map_id":14,
+            "map_name":"another map user",
+            "map_image":"https:\/\/galaxy-staging.s3.eu-central-1.amazonaws.com\/dev\/sai\/user_data\/mm23\/images\/thumbnail\/6074102888f4b.png?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA4ZG4GWGTWMLIYN4P%2F20210629%2Feu-central-1%2Fs3%2Faws4_request&X-Amz-Date=20210629T065931Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=34799df589bae30d01c07b9079c4d038e9ef23f86aa47ef19a478275f665eea2",
+            "media_type":"image",
+            "link_type":null,
+            "video_url":null,
+            "created_date":"15-04-2021",
+            "customer":"",
+            "map_status":1,
+            "owner_id":306,
+            "owner_icon":null,
+            "owner_fname":"tesdf",
+            "owner_lname":"dsfd",
+            "lifecycle_id":1,
+            "lifecycle_name":"lifecycle",
+            "cr_id":1,
+            "phase_id":1,
+            "stage_id":1
+         },
+         {
+            "map_id":12,
+            "map_name":"Copy - full map functionality",
+            "map_image":"https:\/\/galaxy-staging.s3.eu-central-1.amazonaws.com\/dev\/sai\/user_data\/mm23\/images\/thumbnail\/6074102888f4b.png?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA4ZG4GWGTWMLIYN4P%2F20210629%2Feu-central-1%2Fs3%2Faws4_request&X-Amz-Date=20210629T065931Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=34799df589bae30d01c07b9079c4d038e9ef23f86aa47ef19a478275f665eea2",
+            "media_type":"image",
+            "link_type":null,
+            "video_url":null,
+            "created_date":"15-04-2021",
+            "customer":"",
+            "map_status":1,
+            "owner_id":261,
+            "owner_icon":null,
+            "owner_fname":"Sai",
+            "owner_lname":"Lakshmi",
+            "lifecycle_id":1,
+            "lifecycle_name":"lifecycle",
+            "cr_id":1,
+            "phase_id":1,
+            "stage_id":1
+         }
+      ],
+      "widgets":[
+         {
+            "widget_id":230,
+            "widget_type_id":1,
+            "widget_type_name":"text",
+            "widget_type_dname":"Text",
+            "widget_title":"Text",
+            "widget_position":1,
+            "widget_status":1,
+            "widget_data":[
+               {
+                  "block_id":393,
+                  "text":"text widget connected to lifecycle",
+                  "position":1,
+                  "status":1
+               }
+            ]
+         },
+         {
+            "widget_id":232,
+            "widget_type_id":3,
+            "widget_type_name":"emotion",
+            "widget_type_dname":"Emotion Blocks",
+            "widget_title":"Emotion Blocks",
+            "widget_position":2,
+            "widget_status":1,
+            "widget_data":[
+               {
+                  "block_id":396
+               }
+            ]
+         },
+         {
+            "widget_id":233,
+            "widget_type_id":2,
+            "widget_type_name":"image",
+            "widget_type_dname":"Media",
+            "widget_title":"Media",
+            "widget_position":3,
+            "widget_status":1,
+            "widget_data":[
+               
+            ]
+         },
+         {
+            "widget_id":234,
+            "widget_type_id":4,
+            "widget_type_name":"attachment",
+            "widget_type_dname":"Files",
+            "widget_title":"Files",
+            "widget_position":4,
+            "widget_status":1,
+            "widget_data":[
+               
+            ]
+         },
+         {
+            "widget_id":235,
+            "widget_type_id":5,
+            "widget_type_name":"kpi",
+            "widget_type_dname":"Defined KPI",
+            "widget_title":"Defined KPI",
+            "widget_position":5,
+            "widget_status":1,
+            "widget_data":[
+               
+            ]
+         },
+         {
+            "widget_id":236,
+            "widget_type_id":6,
+            "widget_type_name":"icon",
+            "widget_type_dname":"Icon",
+            "widget_title":"Icon",
+            "widget_position":6,
+            "widget_status":1,
+            "widget_data":[
+               
+            ]
+         },
+         {
+            "widget_id":237,
+            "widget_type_id":7,
+            "widget_type_name":"quotes",
+            "widget_type_dname":"Quotes",
+            "widget_title":"Quotes",
+            "widget_position":7,
+            "widget_status":1,
+            "widget_data":[
+               
+            ]
+         },
+         {
+            "widget_id":238,
+            "widget_type_id":8,
+            "widget_type_name":"dimensions",
+            "widget_type_dname":"Dimensions",
+            "widget_title":"Dimensions",
+            "widget_position":8,
+            "widget_status":1,
+            "widget_data":[
+               
+            ]
+         }
+      ]
+   }
+}
